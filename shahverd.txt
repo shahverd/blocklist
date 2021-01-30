@@ -1,17 +1,10 @@
 [Adblock Plus 2.0]
-! Version: 202001251555
+! Version: 202102011555
 ! Title: Farsi
 ! Last modified: 22 Dec 2019 15:55 UTC
-! Expires: 4 days (update frequency)
-! Homepage: https://easylist.to/
-! Licence: https://easylist.to/pages/licence.html
+! Expires: 365 days (update frequency)
+! Homepage: https://github.com/shahverd/blocklist
+! Licence: GPLv3
 ! 
-! Please report any unblocked adverts or problems
-! in the forums (https://forums.lanik.us/)
-! or via e-mail (easylist.subscription@gmail.com).
-! GitHub issues: https://github.com/easylist/easylist/issues
-! GitHub pull requests: https://github.com/easylist/easylist/pulls
 ! 
-! -----------------------General advert blocking filters-----------------------!
-! *** easylist:easylist/easylist_general_block.txt ***
-@@||tabnak.ir/*.gif
+/*.gif^$image
